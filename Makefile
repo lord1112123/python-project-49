@@ -13,10 +13,5 @@ publish:
 package-install:
 	python3 -m pip install --user dist/*whl
 
-pip install:
-	python3 -m pip install .
-
 lint:
 	poetry run flake8 brain_games
-
-
