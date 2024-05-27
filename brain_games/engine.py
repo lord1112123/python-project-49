@@ -8,7 +8,7 @@ def game_engine(game):
     print(game.DESCRIPTION)
     correct_answers = 0
 
-    while correct_answers < 3: # or you can use cycle for
+    for _ in range(3):
         question, correct_answer = game.generate_game()
 
         print(f'Question: {question}')
@@ -16,11 +16,10 @@ def game_engine(game):
 
         if user_answer == correct_answer:
             print('Correct!')
-            correct_answers += 1
         else:
             print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")  # NOQA
             print(f"Let's try again, {name}!")
             break
 
-        if correct_answers == 3:
-            print(f"Congratulations, {name}!")
+        
+    print(f"Congratulations, {name}!")
