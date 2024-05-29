@@ -6,7 +6,6 @@ def game_engine(game):
     name = input('May I have your name? ')
     print(f'Hello, {name}!')
     print(game.DESCRIPTION)
-    correct_answers = 0
 
     for _ in range(3):
         question, correct_answer = game.generate_game()
@@ -19,7 +18,6 @@ def game_engine(game):
         else:
             print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")  # NOQA
             print(f"Let's try again, {name}!")
-            break
+            return
 
-        
     print(f"Congratulations, {name}!")
