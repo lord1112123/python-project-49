@@ -1,6 +1,8 @@
 import math
 import random
 
+DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
 
 def is_prime(number):
     if number <= 1:
