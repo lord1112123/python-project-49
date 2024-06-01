@@ -2,6 +2,7 @@ import random
 
 DESCRIPTION = 'What number is missing in the progression?'
 
+
 def arif_progress(a, d, k):
     progress = [a + i * d for i in range(k)]
     return progress
