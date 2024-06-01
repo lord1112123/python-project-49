@@ -22,3 +22,4 @@ def generate_game():
     progress = arif_progress(number1, number2, number3)
     question, correct_answer = hide_element(progress, hide_index)
     question_str = ' '.join(map(str, question))
+    return question_str, str(correct_answer)
