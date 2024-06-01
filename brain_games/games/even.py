@@ -11,4 +11,4 @@ def generate_game():
     random_number = random.randint(1, 100)
     question = random_number
     correct_answer = 'yes' if even_or_add(random_number) else 'no'
-    return  question, correct_answer
+    return question, correct_answer
