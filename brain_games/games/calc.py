@@ -2,6 +2,7 @@ import random
 
 DESCRIPTION = 'What is the result of the expression?'
 
+
 def generate_game():
     random_number1 = int(random.randint(1, 100))
     random_number2 = int(random.randint(1, 100))
