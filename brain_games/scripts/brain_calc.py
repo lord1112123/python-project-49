@@ -3,7 +3,7 @@ from brain_games.games import calc
 
 
 def main():
-    c
+    engine.game_engine(calc)
 
 
 if __name__ == "__main__":
