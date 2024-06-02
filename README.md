@@ -4,16 +4,16 @@
 
 
 ### Brain Even demo
-[![asciicast](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt)](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt) 
+[![asciicast](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt.svg)](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt) 
 
 ### Brain Calc demo
-[![asciicast](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk)](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk)
+[![asciicast](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk.svg)](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk)
 
 ### Brain GCD demo
-[![asciicast](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk)](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk) 
+[![asciicast](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk.svg)](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk) 
 
 ### Brain progression demo
-[![asciicast](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf)](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf)
+[![asciicast](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf.svg)](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf)
 
 ### Brain prime demo
-[![asciicast](https://asciinema.org/a/TdOuCehQNeHouATiLhdMqSMsz0)](https://asciinema.org/a/TdOuCehQNeHouATiLhdMqSMsz0)
+[![asciicast](https://asciinema.org/a/r3bL53awylyaRQPH8Z51Fvd0j.svg)](https://asciinema.org/a/r3bL53awylyaRQPH8Z51Fvd0j)
