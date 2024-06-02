@@ -3,9 +3,18 @@
 
 <a href="https://codeclimate.com/github/lord1112123/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/930add31641aa2010362/maintainability" /></a>
 
-<a href="https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt" /></a>
 
-<a href="https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk" /></a>
-<a href="https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk" /></a> 
-<a href="https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf" /></a>
-<a href="https://asciinema.org/a/TdOuCehQNeHouATiLhdMqSMsz" /></a>
+### Brain Even demo
+[![asciicast](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt)](https://asciinema.org/a/roQET646lMkgMYnnAI3h5KErt) 
+
+### Brain Calc demo
+[![asciicast](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk)](https://asciinema.org/a/wChQl3tQWBwXHvgIB7gyDrlKk)
+
+### Brain GCD demo
+[![asciicast](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk)](https://asciinema.org/a/lEtVncKocD01nleOlWRGTdYgk) 
+
+### Brain progression demo
+[![asciicast](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf)](https://asciinema.org/a/QfvclAdgtKaH3Hxn9qTAvkmtf)
+
+### Brain prime demo
+[![asciicast](https://asciinema.org/a/TdOuCehQNeHouATiLhdMqSMsz0)](https://asciinema.org/a/TdOuCehQNeHouATiLhdMqSMsz0)
